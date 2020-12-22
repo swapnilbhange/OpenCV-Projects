@@ -23,5 +23,6 @@ I am providing the code in both .py and .ipynb format.
     We will run the face_recognition.py code.
     In the face detection code we can store multiple faces(I used upto five faces) or label them according to user id.
     
-  4. result:
+  4. result: 
   
+  ![Face](https://raw.githubusercontent.com/swapnilbhange/OpenCV-Projects/main/Face%20detection/Dataset/Screenshot%20(386).png)
